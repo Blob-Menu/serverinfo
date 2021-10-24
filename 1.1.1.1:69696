@@ -1,6 +1,6 @@
 {
   "description": "This is a test description for Blob Menu development. Ignore this if youre just lookin around pls ok thank you i need to bulk this out to test to see if newline handling works thanks very much very cool\n <- newline right there oop ->\n theres another one!",
-  "background-image": "https://cdn.discordapp.com/attachments/893023337700270080/900946803631980564/20211021200925_1.jpg",
+  "image": "https://cdn.discordapp.com/attachments/893023337700270080/900946803631980564/20211021200925_1.jpg",
   "tags": ["rp", "fun", "unused", "atm"],
   "features": []
 }
